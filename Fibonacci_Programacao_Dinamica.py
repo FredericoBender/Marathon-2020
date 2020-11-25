@@ -1,4 +1,4 @@
-def fibonacci_dinamico(n,firstIteration=True):
+def fibonacci_dinamico(n):
     if n<=1:
         return 1
     if fibs[n] > -1:
